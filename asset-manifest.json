@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deck-card/static/css/main.8e8605ba.chunk.css",
+    "main.js": "/deck-card/static/js/main.a9b2a57f.chunk.js",
+    "main.js.map": "/deck-card/static/js/main.a9b2a57f.chunk.js.map",
+    "runtime-main.js": "/deck-card/static/js/runtime-main.e3c1cf99.js",
+    "runtime-main.js.map": "/deck-card/static/js/runtime-main.e3c1cf99.js.map",
+    "static/css/2.0ba96f5c.chunk.css": "/deck-card/static/css/2.0ba96f5c.chunk.css",
+    "static/js/2.85bdaffb.chunk.js": "/deck-card/static/js/2.85bdaffb.chunk.js",
+    "static/js/2.85bdaffb.chunk.js.map": "/deck-card/static/js/2.85bdaffb.chunk.js.map",
+    "static/js/3.c18c1174.chunk.js": "/deck-card/static/js/3.c18c1174.chunk.js",
+    "static/js/3.c18c1174.chunk.js.map": "/deck-card/static/js/3.c18c1174.chunk.js.map",
+    "index.html": "/deck-card/index.html",
+    "static/css/2.0ba96f5c.chunk.css.map": "/deck-card/static/css/2.0ba96f5c.chunk.css.map",
+    "static/css/main.8e8605ba.chunk.css.map": "/deck-card/static/css/main.8e8605ba.chunk.css.map",
+    "static/js/2.85bdaffb.chunk.js.LICENSE.txt": "/deck-card/static/js/2.85bdaffb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3c1cf99.js",
+    "static/css/2.0ba96f5c.chunk.css",
+    "static/js/2.85bdaffb.chunk.js",
+    "static/css/main.8e8605ba.chunk.css",
+    "static/js/main.a9b2a57f.chunk.js"
+  ]
+}

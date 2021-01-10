@@ -1,6 +1,6 @@
 import {EventEmitter} from "events";
-import Deck from '../Deck';
-import dispatcher from "../dispatcher";
+import Deck from '../models/deck';
+import dispatcher from "../dispatcher/dispatcher";
 
 class DeckStore extends EventEmitter{
     constructor(deck = new Deck()) {
@@ -22,6 +22,9 @@ class DeckStore extends EventEmitter{
     getAll(){
         return this.deckCard.cards;
     }
+    /*
+    This methode handle actions.
+    */
     handleActions(action){
         switch (action.type){
             case "START-GAME":{
